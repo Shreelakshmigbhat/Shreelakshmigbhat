@@ -4,12 +4,7 @@
   Computer Science Student
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shreelakshmi-bhat-36a792355/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
- 
-</p>
+
 
 ---
 
@@ -49,3 +44,9 @@
 ## Contact
 
 Email: shreelakshmigbhat@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreelakshmi-bhat-36a792355/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+ 
+</p>
