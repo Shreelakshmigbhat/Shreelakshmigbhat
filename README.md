@@ -27,7 +27,7 @@
 
 ---
 
-## Skills
+## Interests
 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square"/>
