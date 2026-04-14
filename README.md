@@ -15,14 +15,6 @@
 
 ---
 
-## About
-
-I am a computer science student with interests in algorithms, systems, and the foundational aspects of computing.
-
-My academic focus includes data structures and algorithms, operating systems, computer networks, and machine learning. I aim to build a strong theoretical understanding complemented by practical implementation through projects.
-
----
-
 ## Tech Stack
 
 <p>
