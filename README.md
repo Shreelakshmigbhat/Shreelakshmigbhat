@@ -1,12 +1,12 @@
-<h2 align="center">Shreelakshmi Bhat</h2>
+<h2 align="center">Shreelakshmi G Bhat</h2>
 
 <p align="center">
-  Computer Science Student
+  CSE|PES University
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
-  <a href="YOUR_LEETCODE_LINK">LeetCode</a>
+  <a href="https://www.linkedin.com/in/shreelakshmi-bhat-36a792355/">LinkedIn</a> •
+  <a href="[YOUR_LEETCODE_LINK](https://leetcode.com/u/ShreelakshmiBhat/)">LeetCode</a>
 </p>
 
 ---
@@ -39,15 +39,7 @@ MERN Stack (MongoDB, Express.js, React, Node.js)
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" />
-</p>
-
----
 
 ## Contact
 
-Email: your-email@example.com
+Email: shreelakshmigbhat@gmail.com
