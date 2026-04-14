@@ -8,9 +8,7 @@
   <a href="https://www.linkedin.com/in/shreelakshmi-bhat-36a792355/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/ShreelakshmiBhat/">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat-square&logo=leetcode&logoColor=white"/>
-  </a>
+ 
 </p>
 
 ---
