@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shreelakshmi-bhat-36a792355/">LinkedIn</a> •
-  <a href="(https://leetcode.com/u/ShreelakshmiBhat/)">LeetCode</a>
+  <a href="[https://leetcode.com/u/ShreelakshmiBhat/]">LeetCode</a>
 </p>
 
 ---
