@@ -29,8 +29,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Networks-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge"/>
 </p>
 
