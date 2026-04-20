@@ -1,8 +1,7 @@
 <h1 align="center">Shreelakshmi G Bhat</h1>
 
 <p align="center">
-  <em>Computer Science Student · PES University, Bengaluru</em><br/>
-  Second-year undergraduate with a growing interest in software development and computer science fundamentals.
+  CS undergrad at PES University · building and learning.
 </p>
 
 ---
