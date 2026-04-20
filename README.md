@@ -1,7 +1,7 @@
 <h1 align="center">Shreelakshmi G Bhat</h1>
 
 <p align="center">
-  CS undergrad at PES University · building and learning.
+  CSE @ PES University · building and learning.
 </p>
 
 ---
