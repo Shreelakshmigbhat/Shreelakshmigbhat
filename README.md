@@ -12,33 +12,6 @@
 
 ---
 Currently: **B.Tech CSE @ PES University** 
-Experience: **ML Intern @ Neviton Softech**
-
----
-
-## 🛠 What I work with
-
-```
-Languages     C++  ·  Python  ·  TypeScript  ·  JavaScript  ·  C
-Backend       REST APIs  ·  Microservices  ·  Multithreading  ·  Distributed Systems
-ML / AI       PyTorch  ·  YOLOv8  ·  OpenCV  ·  LLM Integration  ·  Prompt Engineering
-Web           MERN Stack  ·  Next.js  ·  WebSockets
-DevOps        Docker  ·  GitHub Actions  ·  CI/CD  ·  Azure  ·  Linux
-```
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Shreelakshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreelakshmigbhat&show_icons=true&theme=tokyonight&hide_border=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreelakshmigbhat&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
