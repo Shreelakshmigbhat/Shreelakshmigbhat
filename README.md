@@ -14,7 +14,8 @@
 
 I write code close to the metal — containers, version control systems, network simulators — and I also work up the stack with distributed systems, real-time multiplayer, and LLM integrations. I care about systems that are reliable, code that is readable, and AI that is responsible.
 
-Currently: **B.Tech CSE @ PES University** (CGPA 8.43) · **ML Intern @ Neviton Softech**
+Currently: **B.Tech CSE @ PES University** 
+Experience: **ML Intern @ Neviton Softech**
 
 ---
 
@@ -28,36 +29,7 @@ Web           MERN Stack  ·  Next.js  ·  WebSockets
 DevOps        Docker  ·  GitHub Actions  ·  CI/CD  ·  Azure  ·  Linux
 ```
 
----
 
-## 🔨 Featured Projects
-
-| Project | Stack | What it does |
-|---|---|---|
-| **Multiple Runtime Container System** | C · OS | Process isolation via namespaces, resource control, virtual memory partitioning — a mini cloud runtime from scratch |
-| **Velocity: Torque Nation** | TypeScript · MERN · WebSockets | Multiplayer racing game with decoupled TCP game-server nodes, sub-100ms state sync, and delta-compression |
-| **PES-VCS** | C · Systems | File-based version control system — commits, diffs, branches — built from the ground up |
-| **AI Rephraser Chrome Extension** | JavaScript · LLM APIs | Inline text rephrasing via LLM API with DOM injection; built with accessibility as a first principle |
-| **Packet Dropping Simulator** | Python · Networking | Configurable congestion & loss-rate simulation with visualised drop pattern analysis |
-| **DSA File Zipper** | C · Algorithms | Huffman coding compressor — O(n log n) tree construction, 40–60% compression on text files |
-
-Also built: Image Compression (SVD) · Car Detection (YOLOv8) · Next.js AI Chatbot · Dyslexia Accessibility Bot
-
----
-
-## 📄 Publication
-
-**"A Difficulty-Aware Prompt–Model Recommendation Framework for LLM-Generated Python Code Using Competency-Based Evaluation"**  
-*IEEE Conference — Accepted* · Automated code quality benchmarking through responsible AI evaluation
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Google Big Code Contest 2026** — Shortlisted, Top 15,000 nationally
-- 📘 **IEEE Publication** — Accepted at conference level
-
----
 
 ## 📊 GitHub Stats
 
