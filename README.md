@@ -9,8 +9,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 *"I write code. Sometimes it even works."*
