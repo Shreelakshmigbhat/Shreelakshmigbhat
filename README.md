@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Shreelakshmi 👋
+# Hii, I'm Shreelakshmi 👋
 
 **CS undergrad @ PES University**
 
