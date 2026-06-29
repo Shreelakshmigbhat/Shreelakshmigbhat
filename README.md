@@ -2,7 +2,7 @@
 
 # Hey, I'm Shreelakshmi 👋
 
-**CS undergrad @ PES University · Systems thinker · ML tinkerer · Builder of things that actually work**
+**CS undergrad @ PES University · Systems thinker · ML tinkerer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com)
