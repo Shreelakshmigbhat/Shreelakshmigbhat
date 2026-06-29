@@ -1,6 +1,12 @@
 <div align="center">
 
 # Hey, I'm Shreelakshmi 👋
+<div align="center">
+
+*"I write code. Sometimes it even works."*
+
+</div>
+
 
 **CS undergrad @ PES University**
 
@@ -9,8 +15,3 @@
 
 </div>
 
-<div align="center">
-
-*"I write code. Sometimes it even works."*
-
-</div>
