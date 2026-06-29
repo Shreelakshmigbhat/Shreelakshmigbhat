@@ -11,9 +11,6 @@
 </div>
 
 ---
-
-I write code close to the metal — containers, version control systems, network simulators — and I also work up the stack with distributed systems, real-time multiplayer, and LLM integrations. I care about systems that are reliable, code that is readable, and AI that is responsible.
-
 Currently: **B.Tech CSE @ PES University** 
 Experience: **ML Intern @ Neviton Softech**
 
