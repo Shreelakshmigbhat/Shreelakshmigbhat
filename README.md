@@ -18,8 +18,8 @@ Building across ML pipelines, systems programming, and real-time multiplayer bac
 | [**CarVision-CNN-yolo**](https://github.com/Shreelakshmigbhat/CarVision-CNN-yolo) | Car detection with YOLOv8 — model setup, training, and real-time inference via Ultralytics | `Python` |
 | [**CodeCompass**](https://github.com/Shreelakshmigbhat/CodeCompass) | Adaptive LLM recommendation framework — evaluates code competency, learns difficulty-aware prompt–model pairings with Random Forest classification | `Python` |
 | [**VelocityTorqueNation1**](https://github.com/Shreelakshmigbhat/VelocityTorqueNation1) | Real-time distributed multiplayer racing game — socket networking, server coordination, hash-based load balancing, distributed leaderboard | `TypeScript` |
-| [**Compresso-Huffman-coding**](https://github.com/Shreelakshmigbhat/Compresso-Huffman-coding) | File compressor built on Huffman coding — binary trees and min-heaps over frequency tables | `C` |
-| [**SVDimageLA**](https://github.com/Shreelakshmigbhat/SVDimageLA) | Applies Singular Value Decomposition to images | `Jupyter Notebook` |
+
+
 
 ### Languages I work in most
 
