@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:shreelakshmigbhat@gmail.com"><img src="https://img.shields.io/badge/email-shreelakshmigbhat%40gmail.com-15171C?style=flat-square&logo=gmail&logoColor=white" alt="email"></a>
   <a href="https://www.linkedin.com/in/shreelakshmi-bhat-36a792355/"><img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"></a>
-  <img src="https://img.shields.io/badge/repos-35-3572A5?style=flat-square" alt="repos">
+  <img src="https://img.shields.io/badge/repos-21-3572A5?style=flat-square" alt="repos">
   <img src="https://img.shields.io/badge/stars-14-DA5B0B?style=flat-square" alt="stars">
 </p>
 
