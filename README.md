@@ -27,4 +27,6 @@ Building across ML pipelines, systems programming, and real-time multiplayer bac
 
 ### Reach me
 
-📫 [shreelakshmigbhat@gmail.com](mailto:shreelakshmigbhat@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/shreelakshmi-bhat-36a792355/) · 📍 Bengaluru
+ [shreelakshmigbhat@gmail.com](mailto:shreelakshmigbhat@gmail.com) 
+ [LinkedIn](https://www.linkedin.com/in/shreelakshmi-bhat-36a792355/) 
+ Bengaluru
